@@ -1,0 +1,6 @@
+[submodule "ccm-backend"]
+	path = ccm-backend
+	url = https://github.com/BatuUzun/ccm-backend.git
+[submodule "ccm-frontend"]
+	path = ccm-frontend
+	url = https://github.com/BatuUzun/ccm-frontend.git
